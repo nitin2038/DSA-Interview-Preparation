@@ -1,7 +1,3 @@
-/*
-    TC : O(N^2)
-    SC : O(N)
-*/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -21,9 +17,7 @@ vector<vector<int>>threeSum(vector<int>&arr) {
         while (left < right) {
             int currSum = arr[left] + arr[right];
             if (currSum == targetSum) {
-                vector<int>curr;
-                curr.push_back({arr[i], arr[left], arr[right]});
-                res.push_back(curr);
+                res.push_back({arr[i], arr[left], arr[right]});
                 left += 1;
                 right -= 1;
 
@@ -63,4 +57,3 @@ int main() {
     solve();
     return 0;
 }
-
