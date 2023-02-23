@@ -1,3 +1,8 @@
+
+/*
+    TC : O(N^2)  // two for loops
+    SC : O(N)   //for res arr
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,8 @@
+/*
+  TC : O(N)
+  SC : O(N) //for res array
+*/
+
 using namespace std;
 
 #include <iostream>
