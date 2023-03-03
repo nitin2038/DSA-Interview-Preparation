@@ -14,3 +14,15 @@
 |  9. Four Sum | MEDIUM  |   |   
 |  10. Comparing Strings containing Backspaces | MEDIUM  |   |   
 |  11. Min Window sort | MEDIUM  |   |   
+
+#### Fast & Slow pointer
+| Problem  | Difficulty  |  Sol.cpp |
+| ------------ | ------------ | ------------ |
+|  1.Linked_List_Cycle | EASY |   |   
+| 2.Linked_List_Cycle_Length  | MEDIUM  |   |   
+| 3.Start_of_Linked_List_Cycle  | MEDIUM  |   |   
+|  4. Happy_Number |  MEDIUM |   |   
+| 5.Middle_of_LinkedList  | MEDIUM  |   |   
+|  6. Palindrome_LinkedList | MEDIUM  |   |   
+| 7. Rearrange_Linked_list  | MEDIUM  |   |   
+| 8. Cycle_In_circular_array  |  MEDIUM |   |   
