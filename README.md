@@ -32,4 +32,9 @@
 | Problem  | Difficulty  |  Sol.cpp |
 | ------------ | ------------ | ------------ |
 |  0. Avg Subarray of K contiguous ele | EASY |   |   
-
+|  1.Maximum Sum Subarray of Size K | EASY | |
+|  2.Smallest Subarray With a Greater Sum |EASY | |
+|  3.Longest Substring with K distinct characters | MEDIUM |   |   
+|  4.Fruits into Baskets (SAME AS PROB 3) | MEDIUM | |
+|  5.Longest Substring with Same Letters after replacement | MEDIUM | |
+|  6.Longest Subarray with ones after replacement | MEDIUM |    |
