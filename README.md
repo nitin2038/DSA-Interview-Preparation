@@ -26,3 +26,10 @@
 |  6. Palindrome_LinkedList | MEDIUM  |   |   
 | 7. Rearrange_Linked_list  | MEDIUM  |   |   
 | 8. Cycle_In_circular_array  |  MEDIUM |   |   
+
+
+#### Window Pattern
+| Problem  | Difficulty  |  Sol.cpp |
+| ------------ | ------------ | ------------ |
+|  0. Avg Subarray of K contiguous ele | EASY |   |   
+
