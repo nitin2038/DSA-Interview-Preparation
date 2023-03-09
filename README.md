@@ -38,3 +38,7 @@
 |  4.Fruits into Baskets (SAME AS PROB 3) | MEDIUM | |
 |  5.Longest Substring with Same Letters after replacement | MEDIUM | |
 |  6.Longest Subarray with ones after replacement | MEDIUM |    |
+|  7.Permutation in a string | MEDIUM |    |
+| 8. Anagram in String | MEDIUM |    |
+| 9.Smallest Window containing Substring | MEDIUM |    |
+| 10.Word Concatenation | MEDIUM |    |
